@@ -1,0 +1,26 @@
+2024-10-02 22:40:24,482 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-02 22:40:24,496 - INFO - 127.0.0.1 - - [02/Oct/2024 22:40:24] "POST /analyze HTTP/1.1" 200 -
+2024-10-02 23:21:57,848 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-02 23:21:57,862 - INFO - 127.0.0.1 - - [02/Oct/2024 23:21:57] "POST /analyze HTTP/1.1" 200 -
+2024-10-02 23:21:59,570 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-02 23:21:59,575 - INFO - 127.0.0.1 - - [02/Oct/2024 23:21:59] "POST /analyze HTTP/1.1" 200 -
+2024-10-02 23:27:35,849 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-02 23:27:35,856 - INFO - 127.0.0.1 - - [02/Oct/2024 23:27:35] "POST /analyze HTTP/1.1" 200 -
+2024-10-02 23:30:58,002 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-02 23:30:58,007 - INFO - 127.0.0.1 - - [02/Oct/2024 23:30:58] "POST /analyze HTTP/1.1" 200 -
+2024-10-02 23:38:50,543 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-02 23:38:50,547 - INFO - 127.0.0.1 - - [02/Oct/2024 23:38:50] "POST /analyze HTTP/1.1" 200 -
+2024-10-02 23:41:04,920 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-02 23:41:04,925 - INFO - 127.0.0.1 - - [02/Oct/2024 23:41:04] "POST /analyze HTTP/1.1" 200 -
+2024-10-02 23:46:55,354 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+2024-10-02 23:46:55,359 - INFO - Retrying request to /chat/completions in 0.497835 seconds
+2024-10-02 23:47:31,511 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-02 23:47:31,520 - INFO - 127.0.0.1 - - [02/Oct/2024 23:47:31] "POST /analyze HTTP/1.1" 200 -
+2024-10-02 23:49:51,052 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-02 23:49:51,057 - INFO - 127.0.0.1 - - [02/Oct/2024 23:49:51] "POST /analyze HTTP/1.1" 200 -
+2024-10-02 23:57:28,860 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-02 23:57:28,864 - INFO - 127.0.0.1 - - [02/Oct/2024 23:57:28] "POST /analyze HTTP/1.1" 200 -
+2024-10-02 23:59:06,454 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-02 23:59:06,458 - INFO - 127.0.0.1 - - [02/Oct/2024 23:59:06] "POST /analyze HTTP/1.1" 200 -
+2024-10-03 00:00:22,560 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-03 00:00:22,568 - INFO - 127.0.0.1 - - [03/Oct/2024 00:00:22] "POST /analyze HTTP/1.1" 200 -

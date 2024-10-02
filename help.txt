@@ -1,0 +1,31 @@
+
+
+#Create new env with name with python version
+conda create -n tamr python=3.8 
+
+#Activate the env
+conda activate tamr  
+
+
+#instal lib using pip
+pip install openai  
+
+
+#install essenial ML lib using condo
+conda install pandas numpy scikit-learn
+
+
+#install libs from .txt 
+pip install -r requirements.txt 
+
+#for .env lib
+pip install python-dotenv
+
+
+
+#mac os tensorflow
+pip install tensorflow-macos==2.13.0 tensorflow==2.13.0
+
+
+#kill port
+lsof -t -i tcp:5000 | xargs kill -9
